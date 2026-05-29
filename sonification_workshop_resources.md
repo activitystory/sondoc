@@ -38,8 +38,7 @@
 [`https://www.icad.org/websiteV2.0/Conferences/ICAD2004/concert/PotardSchiemer.pdf`](https://www.icad.org/websiteV2.0/Conferences/ICAD2004/concert/PotardSchiemer.pdf) 
 
 **`[more examples of various approaches]`** `Data Sonification Awards`
-[`https://www.sonificationawards.org/`]
-(https://www.sonificationawards.org/)
+[`https://www.sonificationawards.org/`](https://www.sonificationawards.org/)
 
 **`Tools for sonification [sample data: fake_data]:`**
 
