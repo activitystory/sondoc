@@ -29,7 +29,7 @@
 **`[interactive]`** `Harmony of the Sphere uses global data to generate music as you change latitude.`    
 [`https://harmony.brianfoo.com`](https://harmony.brianfoo.com)   
 	  
-	`[hybrid] Diegetic - Two Neighborhoods`  
+**`[hybrid] Diegetic - Two Neighborhoods` ** 
 [`https://soundcloud.com/diegeticmn/sets/two-neighborhoods`](https://soundcloud.com/diegeticmn/sets/two-neighborhoods)     
 `Related: #datasonification at SoundCloud`
 
